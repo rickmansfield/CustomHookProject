@@ -16,6 +16,7 @@ This project allows you to practice the concepts and techniques learned in this 
   - [Rick Mansfield's Pull Req Link](#rick-mansfields-pull-req-link)
   - [Class Questions](#class-questions)
   - [Kinds of Logic](#kinds-of-logic)
+  - [Kinds of Logic II](#kinds-of-logic-ii)
 ## Instructions
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this project.**
@@ -173,3 +174,8 @@ After finishing your required elements, you can push your work further. These go
     - Presentational (stateless)
     - Data Logic (accessing)
     - Stateful Logic (Manipulate saving)
+  
+  ## Kinds of Logic II
+  - Services = gets data from server
+  - Hooks = set that data to our state(s)
+  - Presentational (Stateless) components "show" that data
