@@ -11,7 +11,7 @@
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-scripts": "3.4.0",
-    "recharts": "^2.0.0-beta.1"
+    "recharts": "^2.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -35,6 +35,6 @@
     ]
   },
   "devDependencies": {
-    "sass": "^1.32.8"
+    "sass": "^1.38.2"
   }
 }
